@@ -1,2 +1,4 @@
 # ISKONOTES-PersonalProject
-Notes for all PSHS Iskos and Iskas of all levels.
+Online notes for all PSHS Iskos and Iskas of all levels.
+
+## NOTE: IN DEVELOPMENT
